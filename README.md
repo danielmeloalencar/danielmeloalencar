@@ -1,4 +1,4 @@
-### Olá! Bem-vindo ao meu perfil! ✋
+### Olá, bem-vindo ao meu perfil! ✋
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/danielmalencar)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/user/thedmellow)
