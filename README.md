@@ -24,7 +24,7 @@ Um eterno aluno de programação, desde os 14 anos (34 atualmente). Estudante de
 <div> 
   <a href="https://www.youtube.com/user/thedmellow" target="_blank"><img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.facebook.com/danielmalencar" target="_blank"><img src="https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
-  <a href="https://api.whatsapp.com/send?phone=5588996573702" target="_blank"><img src="https://img.shields.io/badge/-whatsapp-128C7E?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  <a href="https://wa.me/message/FDOBDON3OEGZD1" target="_blank"><img src="https://img.shields.io/badge/-whatsapp-128C7E?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
    <a href = "mailto:danielmalencar2011@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://danielmeloalencar.blogspot.com/" target="_blank"><img src="https://img.shields.io/badge/-Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" target="_blank"></a> 
      <a href="https://www.linkedin.com/in/daniel-melo-alencar/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
