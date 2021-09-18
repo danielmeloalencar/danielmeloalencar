@@ -1,37 +1,30 @@
-### Olá, bem-vindo ao meu perfil! ✋
-
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/danielmalencar)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/user/thedmellow)
-[![Blog](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://danielmeloalencar.blogspot.com/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielmalencar2011@gmail.com)
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5588996573702)
-
-<div style="text-align:center">
-
-![Daniel GitHub stats](https://github-readme-stats.vercel.app/api?username=danielmeloalencar&show_icons=true&theme=dracula)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielmeloalencar&layout=compact&theme=dracula)](https://github.com/danielmeloalencar/github-readme-stats)
-
+## DANIEL MELO ALENCAR
+<hr>
+Um eterno aluno de programação, desde os 14 anos (34 atualmente). Estudante de Análise e Desenvolvimento de Sistemas
+<br><br>
+ <div>
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielmeloalencar&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielmeloalencar&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-
-## Tecnologias que uso
-<div style="display: inline-block"> <br/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" align="center"/>
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="NODE.js" align="center"/>
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" align="center"/>
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" align="center"/>
-<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="VUEJS" align="center"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" align="center"/>
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="ReactNative" align="center"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="ReactJS" align="center"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" align="center"/>
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="PHP" align="center"/>
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" align="center"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" align="center"/>
-</div> <br/><br/>
-
-<div>
-<img src="https://logodownload.org/wp-content/uploads/2016/11/descomplica-logo.png" alt="Faculdade Descomplica" align="left" width="150px" style="margin:10px"/> Um eterno aluno de programação, desde os 14 anos (34 atualmente). Estudante de Análise e Desenvolvimento de Sistemas pela Faculdade Descomplica.
+<div style="display: inline_block"><br>
+  <img align="center" alt="Daniel-Alencar-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Daniel-Alencar-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
+  <img align="center" alt="Daniel-Alencar-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Daniel-Alencar-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Daniel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Daniel-ReactNative" align="center"/>
+   <img align="right" alt="Daniel Melo Alencar" src="daniel.jpg" width="148">
 </div>
-
-
+  
+  ##
+ 
+<div> 
+  <a href="https://www.youtube.com/user/thedmellow" target="_blank"><img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.facebook.com/danielmalencar" target="_blank"><img src="https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
+  <a href="https://api.whatsapp.com/send?phone=5588996573702" target="_blank"><img src="https://img.shields.io/badge/-whatsapp-128C7E?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+   <a href = "mailto:danielmalencar2011@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <a href="https://danielmeloalencar.blogspot.com/" target="_blank"><img src="https://img.shields.io/badge/-Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" target="_blank"></a> 
+     <a href="https://www.linkedin.com/in/daniel-melo-alencar/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
