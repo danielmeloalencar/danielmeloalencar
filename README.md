@@ -13,8 +13,9 @@ Um eterno aluno de programação, desde os 14 anos (34 atualmente). Estudante de
   <img align="center" alt="Daniel-Alencar-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Daniel-Alencar-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Daniel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Daniel-ReactNative" align="center"/>
-   <img align="right" alt="Daniel Melo Alencar" src="/daniel.jpg" width="128">
+<img align="center" alt="Daniel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+<img align="center" src="https://img.shields.io/badge/reactnative-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Daniel-react" align="center"/>
+   <img align="right" alt="Daniel Melo Alencar" src="/daniel.jpg" width="148">
 </div>
 </a>
   
