@@ -1,6 +1,6 @@
 ## DANIEL MELO ALENCAR
 <hr>
-Um eterno aluno de programação, desde os 14 anos (34 atualmente). Estudante de Análise e Desenvolvimento de Sistemas
+Um eterno aluno de programação, desde os 14 anos (35 atualmente). Estudante de Sistemas Para Internet pela Universidade Estácio
 <br><br>
  <div>
   <a href="https://github.com/danielmeloalencar">
@@ -9,7 +9,9 @@ Um eterno aluno de programação, desde os 14 anos (34 atualmente). Estudante de
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Daniel-Alencar-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Daniel-Alencar-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
+  <img align="center" alt="Daniel-Alencar-Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
+  <img align="center" alt="Daniel-Alencar-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Daniel-Alencar-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Daniel-Alencar-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Daniel-Alencar-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Daniel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
