@@ -1,6 +1,6 @@
 ## DANIEL MELO ALENCAR
 <hr>
-Um eterno aluno de programação, desde os 14 anos (35 atualmente). Estudante de Sistemas Para Internet pela Universidade Estácio. Desenvolverdor Frontend pela <a href="https://xtrategie.com.br" target="_new">Xtrategie</a>  
+Um eterno aluno de programação, desde os 14 anos (35 atualmente). Estudante de Sistemas Para Internet pela Universidade Estácio. Desenvolverdor Frontend pela <a href="https://xtrategie.com.br" target="_blank">Xtrategie</a>  
 <br><br>
  <div>
   <a href="https://github.com/danielmeloalencar">
