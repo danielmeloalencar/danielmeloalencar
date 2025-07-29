@@ -1,6 +1,6 @@
 ## DANIEL MELO ALENCAR
 <hr>
-Um eterno aluno de programação, desde os 14 anos (38 atualmente). Estudante de Sistemas Para Internet pela Universidade Estácio. Desenvolverdor Fullstack
+Desenvolvedor Fullstack com paixão por tecnologia desde os 14 anos (atualmente com 38). Entusiasta da aprendizagem contínua, atualmente cursando Sistemas para Internet na Universidade Estácio. Sempre em busca de novos desafios e aprimoramento técnico, com experiência prática em desenvolvimento web completo, do backend ao frontend.
 <br><br>
  <div>
   <a href="https://github.com/danielmeloalencar">
